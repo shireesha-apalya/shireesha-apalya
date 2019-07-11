@@ -4,8 +4,8 @@ project:
 simple login web application by using spring mvc
 
 softwares:
-java   -- 1.8,
-tomcat -- 7.0
+java   -- jdk 10,
+tomcat -- 9.0
 
 dependencies:
 
